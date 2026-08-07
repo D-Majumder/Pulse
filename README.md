@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.sanity.io/images/0aocp9sp/production/51c8418b276d053939dcc1bb4d01adcd95d81075-2880x1620.png" alt="Maha Kumbh Mela" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 0 15px rgba(255,140,0,0.3);">
+  <img src="https://sc.filehippo.net/images/t_app-icon-l/p/6162bb0a-96d9-11e6-88f6-00163ec9f5fa/1398384717/bluetooth-radar-logo" alt="Bluetooth Rader" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 0 15px rgba(255,140,0,0.3);">
 </p>
 
 <p align="center">
